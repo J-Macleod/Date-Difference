@@ -2,7 +2,6 @@ from datetime import date, datetime
 
 from colorama import Fore, Back, Style
 from colorama import init
-from termcolor import colored
 
 import os
 import ctypes
